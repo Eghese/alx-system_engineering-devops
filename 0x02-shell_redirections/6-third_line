@@ -1,2 +1,2 @@
 #!/bin/bash
-Iacta | tail -l 
+iacta | tail -l 
